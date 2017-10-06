@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/bapi24/bapi24.github.io.git
