@@ -12,6 +12,7 @@ disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-108367053-1"
+#TODO add googleAnalytics to the site
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
