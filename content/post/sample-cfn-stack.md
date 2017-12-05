@@ -139,7 +139,7 @@ Outputs:
     Value: !Ref 'IPAddress'
 ```
 
-Once you have AWS cli set up(if not refer [this]({{< ref "post/setup-aws-cli-on-mac.md" >}}) you can create a CFN stack from above template using AWS cli:
+Once you have AWS cli set up (if not refer [this]({{< ref "post/setup-aws-cli-on-mac.md" >}}) ) you can create a CFN stack from above template using AWS cli:
 
 ```bash
 aws cloudformation create-stack --stack-name test-instance \
