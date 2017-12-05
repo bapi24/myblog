@@ -1,6 +1,6 @@
 +++
 date = 2017-10-11
-lastmod = 2017-10-17
+lastmod = 2017-12-05
 draft = false
 tags = ["academic", "hugo"]
 title = "Setting up AWS cli on mac"
@@ -56,12 +56,13 @@ $python3 hello.py
 $brew install awscli
 ```
 
-#### **Configure AWS cli**
-```bash
-$aws configure --profile dev
-```
-
 #### **Test aws cli**
 ```bash
 $aws --version
 ```
+
+#### **Configure AWS cli**
+```bash
+$aws configure --profile dev
+```
+Enter AWS access key, secret access key and default region to configure AWS cli.
