@@ -2,7 +2,7 @@
 date = 2017-10-11
 lastmod = 2017-12-05
 draft = false
-tags = ["academic", "hugo"]
+tags = ["aws", "awscli"]
 title = "Setting up AWS cli on mac"
 math = true
 summary = """
